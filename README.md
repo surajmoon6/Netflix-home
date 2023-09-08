@@ -1,4 +1,4 @@
-# Netflix-home
+# Netflix-home-page
 # Netflix Home Page Clone
 
 This is a clone of the Netflix home page created using HTML and CSS.
@@ -16,9 +16,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 - [VS CODE] List any software or tools required to run the project.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/surajmoon6/Netflix-home-clone.git
