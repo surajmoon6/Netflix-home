@@ -2,7 +2,7 @@
 This is a clone of the Netflix home page created using HTML and CSS.
 
 ## Preview
-You can view the live demo of the Netflix home page clone [here]  (https://github.com/surajmoon6/Netflix-home).
+You can view the live demo of the Netflix home page clone [here]  (file:///C:/Users/sanjp/OneDrive/Desktop/HTML%20practical/Netflix%20web/index.html).
 
 ## Getting Started
 
